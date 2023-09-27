@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">4.1</string>
+    <string name="add">add</string>
+    <string name="button_text">Рандомный выбор</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="button">Назад</string>
+    <string name="character">character</string>
+    <string name="characterList">лист всех</string>
+    <string name="onlySlizerin">только слизеренцы</string>
+
+    <!-- Auth-->
+    <string name="auth_category">Категория</string>
+    <string name="sing_up">sing_up</string>
+    <string name="sing_in">sing_in</string>
+    <string name="sing_out">sing_out</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559175486094",
+    "project_id": "harrypotter41-652a9",
+    "storage_bucket": "harrypotter41-652a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559175486094:android:ced023c6270d7e1b1f57df",
+        "android_client_info": {
+          "package_name": "ru.stan.a41"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm0g9KYHXUiDKtvgIW-KOmVL6DYcAGktI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
